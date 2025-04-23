@@ -64,14 +64,14 @@ This booking conversion pattern is consistent across tools. High cancellation ra
 	• High cancellation rate needs to be addressed to improve realized revenue.
 	• Performance trends are consistent across Excel, Power BI, and Tableau, showing data reliability.
 
-📎 What I Learned:-
-	
-		• Analyzing seasonal patterns in booking and revenue trends.
-		• Handling time-based metrics for occupancy and average daily rate (ADR).
-		• Visualizing KPIs that align with business decision-making in the hotel industry.
-		• Improving storytelling through visual data representation.
-  
+📎 What I Learned:
 
+	• Understanding customer behavior through sales and delivery data
+	• Segmenting products and customers for strategic marketing insights
+	• Creating actionable dashboards for order trends, payment types, and shipping delays
+	• Communicating patterns that can influence business logistics and customer service
+
+ 
 ![Hospitality Excel Dashboard](https://github.com/user-attachments/assets/05a8268d-e219-47cc-a23f-c130d0c5f97f)
 
 ![Hospitality PowerBI Dashboard](https://github.com/user-attachments/assets/351f62b5-bbfb-4ed0-9a4e-9daee695a86d)
