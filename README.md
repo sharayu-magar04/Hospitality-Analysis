@@ -14,6 +14,7 @@ These numbers reflect consistent business performance across different platforms
 📅 Time-Based Trends:-
 
 Monthly Revenue Trend:
+
 	• Revenue peaked in May (₹573M), making it the best-performing month. April and June also performed well, while July showed a decline.
 	• Weekly Revenue Trend (Week 19–32):
 	• Revenue and bookings rose steadily until Week 26–27 (peak at ~₹137M), followed by a noticeable drop in Week 32 (~₹0.3M).
@@ -21,6 +22,7 @@ Monthly Revenue Trend:
 📆 Weekday vs Weekend Analysis:-
 
 Weekday Performance Dominates:
+
 	• Weekday Revenue: ₹1070M–₹1157M
 	• Weekend Revenue: ₹480M–₹639M
 	• Weekday Bookings: ~84K–91K
@@ -31,10 +33,12 @@ Weekdays clearly outperform weekends in both revenue and volume. This suggests m
 🏨 Hotel & Class Revenue Contribution:-
 
 Top Hotel: 
+
 	• Atliq Exotica (especially strong in Mumbai) drives the highest revenue across all dashboards.
 	• State-wise Presence: Major cities like Bangalore, Mumbai, Delhi, and Hyderabad dominate the revenue charts.
 
 Class Performance:
+
 Elite class contributes the most (₹560M+), followed by Premium and Budget classes.
 Standard class is the lowest contributor (~₹309M).
 
@@ -56,7 +60,7 @@ This booking conversion pattern is consistent across tools. High cancellation ra
 	• High cancellation rate needs to be addressed to improve realized revenue.
 	• Performance trends are consistent across Excel, Power BI, and Tableau, showing data reliability.
 
- 
+
 ![Hospitality Excel Dashboard](https://github.com/user-attachments/assets/05a8268d-e219-47cc-a23f-c130d0c5f97f)
 
 ![Hospitality PowerBI Dashboard](https://github.com/user-attachments/assets/351f62b5-bbfb-4ed0-9a4e-9daee695a86d)
