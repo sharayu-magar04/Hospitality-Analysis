@@ -1,4 +1,8 @@
-📊 Hospitality-Analysis
+📊 Hospitality Industry Analysis
+
+	• Tools Used: Excel, Power BI, Tableau
+	• Domain: Hospitality | Hotel Management | Data Analytics
+	• Techniques: Data Cleaning, Data Aggregation, Time Series Analysis, Trend Visualization, Interactive Dashboarding
 
 🔹 Key Performance Metrics (Consistent Across All Tools):-
 
@@ -60,6 +64,13 @@ This booking conversion pattern is consistent across tools. High cancellation ra
 	• High cancellation rate needs to be addressed to improve realized revenue.
 	• Performance trends are consistent across Excel, Power BI, and Tableau, showing data reliability.
 
+📎 What I Learned:-
+	
+		• Analyzing seasonal patterns in booking and revenue trends.
+		• Handling time-based metrics for occupancy and average daily rate (ADR).
+		• Visualizing KPIs that align with business decision-making in the hotel industry.
+		• Improving storytelling through visual data representation.
+  
 
 ![Hospitality Excel Dashboard](https://github.com/user-attachments/assets/05a8268d-e219-47cc-a23f-c130d0c5f97f)
 
