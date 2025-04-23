@@ -51,12 +51,12 @@ High cancellation rate needs to be addressed to improve realized revenue.
 Performance trends are consistent across Excel, Power BI, and Tableau, showing data reliability.
 
 
-![Hospitality Tableau Dashboard](https://github.com/user-attachments/assets/b6ab2509-9f70-49bb-8606-15c2a3e13143)
+![Hospitality Excel Dashboard](https://github.com/user-attachments/assets/05a8268d-e219-47cc-a23f-c130d0c5f97f)
+
+![Hospitality PowerBI Dashboard](https://github.com/user-attachments/assets/351f62b5-bbfb-4ed0-9a4e-9daee695a86d)
+
+![Hospitality Tableau Dashboard](https://github.com/user-attachments/assets/2864b548-2201-4a3f-a0c8-332f19f1f0fa)
 
 
-![Hospitality PowerBI Dashboard](https://github.com/user-attachments/assets/6fdce9bb-7336-4571-a501-30409e0b7c9d)
-
-
-![Hospitality Excel Dashboard](https://github.com/user-attachments/assets/a1c3c435-4569-497c-9374-60e33e0a71a9)
 
 
