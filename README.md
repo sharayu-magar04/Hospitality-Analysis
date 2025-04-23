@@ -1,6 +1,7 @@
 📊 Hospitality-Analysis
 
 🔹 Key Performance Metrics (Consistent Across All Tools):-
+
 Total Revenue: ₹1708M – ₹1709M
 Total Bookings: 134.6K – 135K
 Occupancy Rate: 57.87%
@@ -38,12 +39,14 @@ Standard class is the lowest contributor (~₹309M).
 Focus should remain on high-value offerings (Elite/Premium) and top-tier hotels in major metros.
 
 📋 Booking Outcome Distribution:-
+
 Checked Out: 70.15%
 Cancelled: 24.83%
 No Show: 5.02%
 This booking conversion pattern is consistent across tools. High cancellation rate (~25%) indicates an opportunity to improve booking commitment through better policies or incentives.
 
 💡 Key Insights:-
+
 Business is stronger during weekdays and in May, suggesting alignment with corporate travelers or peak season behavior.
 Atliq Exotica is a high-performing property—a clear strategic asset.
 Elite class rooms bring in the most revenue, pointing toward customer preference for premium experiences.
